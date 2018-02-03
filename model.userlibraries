@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: de.bwaldvogel:liblinear:1.95">
+    <archive path="/Users/qiguo/.m2/repository/de/bwaldvogel/liblinear/1.95/liblinear-1.95.jar" />
+  </library>
+  <library name="scala-sdk-2.12.2">
+    <archive path="/Users/qiguo/Documents/scala-2.12.2/lib/scala-library.jar" />
+    <archive path="/Users/qiguo/Documents/scala-2.12.2/lib/scala-parser-combinators_2.12-1.0.5.jar" />
+    <archive path="/Users/qiguo/Documents/scala-2.12.2/lib/scala-reflect.jar" />
+    <archive path="/Users/qiguo/Documents/scala-2.12.2/lib/scala-swing_2.12-2.0.0.jar" />
+    <archive path="/Users/qiguo/Documents/scala-2.12.2/lib/scala-xml_2.12-1.0.6.jar" />
+  </library>
+</eclipse-userlibraries>
+

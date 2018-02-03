@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: me.lyh:xgboost4j:0.7-20171121-8e141427">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/me/lyh/xgboost4j/0.7-20171121-8e141427/xgboost4j-0.7-20171121-8e141427.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/me/lyh/xgboost4j/0.7-20171121-8e141427/xgboost4j-0.7-20171121-8e141427-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/me/lyh/xgboost4j/0.7-20171121-8e141427/xgboost4j-0.7-20171121-8e141427-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
